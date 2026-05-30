@@ -35,3 +35,19 @@ The prompt accepts business details such as name, type, location, target custome
 ### Outcome
 
 A reusable prompt engineering framework capable of generating professional website copy for salons and other local businesses.
+## Website Prototype
+
+A website prototype for Aura Beauty Studio was created using Lovable AI based on the generated website copy and prompt framework.
+
+### Features Implemented
+
+* Homepage with value proposition
+* Services section
+* Appointment booking form
+* Contact section
+* Mobile-responsive layout
+
+### Screenshots
+
+Website screenshots are available in the `screenshots` folder.
+
